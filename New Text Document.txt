@@ -1,0 +1,4 @@
+-cgpa calculator 
+-calculates cgpa of students according to marks 
+-make a "password.txt" file in D folder that will check password during 
+ checking the college result.
